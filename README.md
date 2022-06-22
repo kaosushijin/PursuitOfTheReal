@@ -14,6 +14,7 @@ The project will be broken into three sections, greyworks, greenworks, and goldw
 - Greyworks are scenes, moments, and expressions.  They are individualized and can be adapted into a greater work.
 - Greenworks are full arcs, acts, or productions, compiled and adapted from greyworks.  They are "in progress" works.
 - Goldworks are greenworks that have been completed and are ready to be performed.  They are no longer "in progress".
+ 
 Tags should be applied to all to identify themes, to assist with compiling greyworks into greenworks, and to find greenworks/goldworks for production.
 
 ### Licensing ###
